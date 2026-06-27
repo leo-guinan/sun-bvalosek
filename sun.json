@@ -1,0 +1,382 @@
+{
+  "id": "sun-bvalosek",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@bvalosek Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_ef7df94d6d29",
+    "display_name": "bvalosek",
+    "user_id": "@bvalosek",
+    "description": "Community Archive-derived proof-of-search sun for @bvalosek.",
+    "document_count": 10837,
+    "word_count": 165834,
+    "active_days": 2891,
+    "emissions": [
+      "New",
+      "Nft",
+      "Time",
+      "Now",
+      "Nfts",
+      "Derekensign"
+    ],
+    "generated_at": "2026-06-27T15:39:17.844288+00:00",
+    "color": "#f59e0b",
+    "mass": 12.019
+  },
+  "planets": [
+    {
+      "id": "planet_5c8291fd53cd",
+      "name": "New",
+      "summary": "Archive cluster around new: 9368 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "new",
+        "day",
+        "way",
+        "love",
+        "first"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2b7ca27523ae",
+          "title": "New receipt from 2024-06-20",
+          "excerpt": "@bashu_thanks oh ya. i've had dreams where i could copy and paste objects in reality, same felt sense amplified in a way",
+          "source_document_id": "1803820809846182003",
+          "timestamp": "2024-06-20T16:02:49+00:00",
+          "url": "https://x.com/bvalosek/status/1803820809846182003",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, day, way, love."
+        },
+        {
+          "id": "art_166c6f9100cf",
+          "title": "New receipt from 2021-09-11",
+          "excerpt": "\"Telegratica\" - 10/10 edition digital painting on @hicetnunc2000 \n\nfirst ever Tezos mint 🥳\n\nhttps://t.co/u4UeOb4diR https://t.co/sqGJyBjHzV",
+          "source_document_id": "1436753959398645760",
+          "timestamp": "2021-09-11T18:10:12+00:00",
+          "url": "https://x.com/bvalosek/status/1436753959398645760",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, day, way, love."
+        },
+        {
+          "id": "art_b3a02fcb71db",
+          "title": "New receipt from 2021-11-30",
+          "excerpt": "Your realms, your rules \n\nhttps://t.co/dEgUsRe392 by @raribledao \n\nV1 out on eth/polygon/arbi/ftm blockchains https://t.co/C44foDjMHL",
+          "source_document_id": "1465570162137092100",
+          "timestamp": "2021-11-30T06:35:30+00:00",
+          "url": "https://x.com/bvalosek/status/1465570162137092100",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, day, way, love."
+        },
+        {
+          "id": "art_d1d7d5653e92",
+          "title": "New receipt from 2021-07-06",
+          "excerpt": "Haven’t done a non-animated piece in a minute 🌈\n\nhttps://t.co/iiI0EVuTbF\n\nhttps://t.co/9uGsWb2RWH https://t.co/nS3FWUDrzA",
+          "source_document_id": "1412225262452871168",
+          "timestamp": "2021-07-06T01:41:55+00:00",
+          "url": "https://x.com/bvalosek/status/1412225262452871168",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, day, way, love."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c2c5b41dac37",
+      "proof_score": 1,
+      "mass": 35.467,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_9c3d75bc1f11",
+      "name": "Nft",
+      "summary": "Archive cluster around nft: 339 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nft",
+        "vibes",
+        "nfts",
+        "cryptoart",
+        "token"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2ea002f2e5dc",
+          "title": "Nft receipt from 2021-10-28",
+          "excerpt": "Been building something over the last few weeks at @raribledao that I'm hella stoked about sharing w yall\n\nWhat happens when you ship a public and free NFT primitive that anybody can experiment with and build on? 👀\n\n🌈 HyperVIBES protocol goes live next month.\n\ndetails below: https://t.co/nIWomORsND",
+          "source_document_id": "1453786312847265795",
+          "timestamp": "2021-10-28T18:10:41+00:00",
+          "url": "https://x.com/bvalosek/status/1453786312847265795",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nft, vibes, nfts, cryptoart."
+        },
+        {
+          "id": "art_2def25729867",
+          "title": "Nft receipt from 2021-03-17",
+          "excerpt": "UniversalVault is an extremely intriguing standard. There’s absolutely going to be an explosion of NFT-based vault frontend protocols experimenting with this. Already seeing the vibrancy w/ $VISR and $MIST @_alchemistcoin https://t.co/XswnfyqJmC",
+          "source_document_id": "1372187570755473413",
+          "timestamp": "2021-03-17T14:06:25+00:00",
+          "url": "https://x.com/bvalosek/status/1372187570755473413",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nft, vibes, nfts, cryptoart."
+        },
+        {
+          "id": "art_f11e8a8efbf6",
+          "title": "Nft receipt from 2021-09-23",
+          "excerpt": "Super excited to be speaking again as a spotlight artist at the @im_not_art community gallery event next week 🤩 \n\nI'll be talking about my paintings, @sickvibesxyz, decentralized curation, digital coordination, and geeky NFT stuff\n\ncome party in the metaverse 🤙 🥳 https://t.co/zrGzQZmyCS",
+          "source_document_id": "1441044204378107909",
+          "timestamp": "2021-09-23T14:18:06+00:00",
+          "url": "https://x.com/bvalosek/status/1441044204378107909",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nft, vibes, nfts, cryptoart."
+        },
+        {
+          "id": "art_630d413a7ef3",
+          "title": "Nft receipt from 2022-01-14",
+          "excerpt": "been shipping with some friends last 3 months in a group of sovereign and autonomous on-chain builders known as R Group\n\nwe were formed in and funded by @raribledao , but we work across the space 🌈\n\nwe're all ab wild NFT tech, DAO tooling, and vibes \n\n® https://t.co/TXTyeqG6Vh",
+          "source_document_id": "1482078658110140418",
+          "timestamp": "2022-01-14T19:54:22+00:00",
+          "url": "https://x.com/bvalosek/status/1482078658110140418",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nft, vibes, nfts, cryptoart."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9712b31698bc",
+      "proof_score": 0.933,
+      "mass": 26.992,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_7e8b26a274b3",
+      "name": "Time",
+      "summary": "Archive cluster around time: 331 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "over",
+        "first",
+        "now",
+        "every"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c4aeeddc4a21",
+          "title": "Time receipt from 2024-10-10",
+          "excerpt": "last week Metalabel underwent a phase shift that was both deeply cohering and outwardly expansive... a massive step-change for our unique project in an even more unique space and time https://t.co/q7VXl14p2w",
+          "source_document_id": "1844447468974637161",
+          "timestamp": "2024-10-10T18:38:39+00:00",
+          "url": "https://x.com/bvalosek/status/1844447468974637161",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, over, first, now."
+        },
+        {
+          "id": "art_b4c9c7e19432",
+          "title": "Time receipt from 2022-02-25",
+          "excerpt": "doing another mainnet deploy tomorrow\n\nthis time it won't be via airport wifi 💯 https://t.co/pqmvmsPRsE",
+          "source_document_id": "1497064281015209993",
+          "timestamp": "2022-02-25T04:21:53+00:00",
+          "url": "https://x.com/bvalosek/status/1497064281015209993",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, over, first, now."
+        },
+        {
+          "id": "art_cba3301048c8",
+          "title": "Time receipt from 2021-06-24",
+          "excerpt": "selling some @TAYL0RWTF NFTs to get the secondary market on @screensaverdao poppn:\n\nhttps://t.co/Op0Kc9pOrt\nhttps://t.co/adZBRJMCBY\n\ntaking top bid ~24 hrs at 10:30am central time",
+          "source_document_id": "1408087467828318209",
+          "timestamp": "2021-06-24T15:39:47+00:00",
+          "url": "https://x.com/bvalosek/status/1408087467828318209",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, over, first, now."
+        },
+        {
+          "id": "art_e53c978da442",
+          "title": "Time receipt from 2021-11-18",
+          "excerpt": "Giving an overview and project retro tomorrow at the @raribledao DAO-wide community call on HyperVIBES, starting at 12pm US central time\n\nHop in the discord if you wanna tune in or learn more: https://t.co/jZjh2UER0m\n\nHyperVIBES: https://t.co/dEgUsRe392 https://t.co/hGEJjxSjhU",
+          "source_document_id": "1461165584599629827",
+          "timestamp": "2021-11-18T02:53:17+00:00",
+          "url": "https://x.com/bvalosek/status/1461165584599629827",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, over, first, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3c47a6131e31",
+      "proof_score": 0.931,
+      "mass": 26.675,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_6484e25e4f0a",
+      "name": "Now",
+      "summary": "Archive cluster around now: 296 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "now",
+        "right",
+        "available",
+        "live",
+        "vibes"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0b4a2c2e53d8",
+          "title": "Now receipt from 2022-03-14",
+          "excerpt": "Big update to the @playgroundswtf shell developer UI released today 🚀\n\nAll of the data and entities managed by the protocol are now surfaced in the UI: \n\n🌱 forks \n📚 collections\n⚙️ engines\n🖼 NFTs\n🪣 storage\n📂 metadata\n👤 accounts\n\nhttps://t.co/MvW1msSLNS check it out !! https://t.co/PwrnPPTSMH",
+          "source_document_id": "1503427205354958852",
+          "timestamp": "2022-03-14T17:45:52+00:00",
+          "url": "https://x.com/bvalosek/status/1503427205354958852",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, available, live."
+        },
+        {
+          "id": "art_0ae5290b5ab1",
+          "title": "Now receipt from 2021-08-13",
+          "excerpt": "One of the first NFTs I ever bought was from @maxcapacity … so dope to now have him as one of the pilot artists infusing NFTs with @sickvibesxyz 🔥 https://t.co/rwI9ChWzM8",
+          "source_document_id": "1426059512931356677",
+          "timestamp": "2021-08-13T05:54:17+00:00",
+          "url": "https://x.com/bvalosek/status/1426059512931356677",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, available, live."
+        },
+        {
+          "id": "art_b91e8b98d07a",
+          "title": "Now receipt from 2021-08-21",
+          "excerpt": "a pixelated remix of a GIF she made in 2014 is @v5mt_tv's only mint on SSW 👀\n\nnow it's been curated into the @sickvibesxyz network and is up for auction on @screensavernft 🥳\n\nhttps://t.co/22gtYSeAqd https://t.co/pYfxFQtDxg",
+          "source_document_id": "1429151266635239435",
+          "timestamp": "2021-08-21T18:39:48+00:00",
+          "url": "https://x.com/bvalosek/status/1429151266635239435",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, available, live."
+        },
+        {
+          "id": "art_9a1790a99332",
+          "title": "Now receipt from 2021-08-31",
+          "excerpt": "Curated some art from @XpopGallery , @Vanderic2 , and @colorshifttt into @sickvibesxyz ❤️💛💜💖\n\nUp for secondary auction on @screensavernft now 🚀\n\nCheck out all my curated VIBES NFTs : https://t.co/imdgi7m1pb https://t.co/xhe3fS33BT",
+          "source_document_id": "1432719397752352769",
+          "timestamp": "2021-08-31T14:58:17+00:00",
+          "url": "https://x.com/bvalosek/status/1432719397752352769",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, right, available, live."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4c324712984f",
+      "proof_score": 0.919,
+      "mass": 26.157,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_95d1da000536",
+      "name": "Nfts",
+      "summary": "Archive cluster around nfts: 215 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nfts",
+        "vibes",
+        "art",
+        "any",
+        "cryptoart"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3d2662b77780",
+          "title": "Nfts receipt from 2021-11-16",
+          "excerpt": "- your realms , your rules \n- any ERC-20 token\n- any ERC-721 nfts \n- free forever \n- built by @raribledao \n\nhttps://t.co/dEgUsRe392 https://t.co/iOxsjU1NH5",
+          "source_document_id": "1460480710272331777",
+          "timestamp": "2021-11-16T05:31:50+00:00",
+          "url": "https://x.com/bvalosek/status/1460480710272331777",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nfts, vibes, art, any."
+        },
+        {
+          "id": "art_872d8fdff92a",
+          "title": "Nfts receipt from 2021-12-31",
+          "excerpt": "painted hundreds of abstract digital paintings in 2021\n\nhuge shoutout to everyone who collected my art, and to the artists that inspired me throughout this insane year 🌈\n\nsome of my favorite pieces that I shipped as NFTs on Ethereum, Tezos, and Polygon blockchains: https://t.co/gZBVwT7z9W",
+          "source_document_id": "1476960833628512260",
+          "timestamp": "2021-12-31T16:57:57+00:00",
+          "url": "https://x.com/bvalosek/status/1476960833628512260",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nfts, vibes, art, any."
+        },
+        {
+          "id": "art_2968a040fc70",
+          "title": "Nfts receipt from 2021-11-11",
+          "excerpt": "you ever want to:\n\n- distribute your social token inside your NFTs\n- create collectibles that mine a token\n- form a curation network with your own rules\n- autograph your fans NFTs with a token\n\nwithout having to write any code? \n\ncheck out what we've been up to at @raribledao 👇 https://t.co/VGNUddyTUA",
+          "source_document_id": "1458889858265530379",
+          "timestamp": "2021-11-11T20:10:21+00:00",
+          "url": "https://x.com/bvalosek/status/1458889858265530379",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nfts, vibes, art, any."
+        },
+        {
+          "id": "art_5a9ecce360eb",
+          "title": "Nfts receipt from 2021-10-11",
+          "excerpt": "1/ Earlier this year, I started my crypto journey with minting NFTs on a custom smart contract\n\nI was instantly hooked and realized how we use and build software was undergoing a radical shift. I 100% had to be part of it\n\n🧵 👇",
+          "source_document_id": "1447647788372795398",
+          "timestamp": "2021-10-11T19:38:23+00:00",
+          "url": "https://x.com/bvalosek/status/1447647788372795398",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nfts, vibes, art, any."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a0c52de8e0a1",
+      "proof_score": 0.888,
+      "mass": 25.754,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_bc714cd290b7",
+      "name": "Derekensign",
+      "summary": "Archive cluster around derekensign: 288 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "derekensign",
+        "katie_ensign",
+        "shit",
+        "dude",
+        "andycnelson"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8910385155f5",
+          "title": "Derekensign receipt from 2021-03-03",
+          "excerpt": "@nobrainerd @derekensign @GovAbbott @MichaelNotEric https://t.co/oOKig7zObw",
+          "source_document_id": "1367004076257460227",
+          "timestamp": "2021-03-03T06:49:04+00:00",
+          "url": "https://x.com/bvalosek/status/1367004076257460227",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: derekensign, katie_ensign, shit, dude."
+        },
+        {
+          "id": "art_757e8d914e41",
+          "title": "Derekensign receipt from 2020-07-29",
+          "excerpt": "my dude @derekensign preachn 😍 https://t.co/tHvz2spDPH",
+          "source_document_id": "1288541551426187264",
+          "timestamp": "2020-07-29T18:27:00+00:00",
+          "url": "https://x.com/bvalosek/status/1288541551426187264",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: derekensign, katie_ensign, shit, dude."
+        },
+        {
+          "id": "art_81720f47c1d7",
+          "title": "Derekensign receipt from 2019-08-18",
+          "excerpt": "Love seeing art out in the wild @derekensign https://t.co/uhJpuaZsgm",
+          "source_document_id": "1162909204254023680",
+          "timestamp": "2019-08-18T02:08:54+00:00",
+          "url": "https://x.com/bvalosek/status/1162909204254023680",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: derekensign, katie_ensign, shit, dude."
+        },
+        {
+          "id": "art_73149d4214f8",
+          "title": "Derekensign receipt from 2020-01-22",
+          "excerpt": "@derekensign Duck anxiously waiting to hear how it went 🥺 https://t.co/oW8DJsNu9c",
+          "source_document_id": "1220000983239086080",
+          "timestamp": "2020-01-22T15:11:15+00:00",
+          "url": "https://x.com/bvalosek/status/1220000983239086080",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: derekensign, katie_ensign, shit, dude."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3412adc2e79d",
+      "proof_score": 0.917,
+      "mass": 23.76,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
